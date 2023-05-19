@@ -1,0 +1,12 @@
+
+.formPrincipal,.formLogin{
+
+    background-color: beige;
+}
+.container{
+    background-color: bisque;
+    width: 80%;
+    border-radius: 8px;
+    padding: 60px 60px 60px 60px
+    
+}
